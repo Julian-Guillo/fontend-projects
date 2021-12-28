@@ -1,4 +1,4 @@
-# fontend-projects
+# frontend-projects
 A list of small front-end projects.
 
 **TinDog:** Funny tinder-like website, written in HTML, CSS and Bootstrap.  
